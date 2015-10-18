@@ -1,0 +1,231 @@
+
+#background #nav{background-color: #404040;
+width:100%;
+float: right;
+position: fixed;
+height: 100px;
+z-index: 99999;
+display: inline-block;
+left:0;
+}
+
+#nav ul {list-style-type: none;
+margin-left: 60%;
+padding: 0;
+overflow: hidden;
+
+}
+
+#nav li{float:left;
+	
+}
+
+
+
+#nav a:link, a:visited{
+
+	display:block;
+	width:90px;
+	height:25px;
+	top:0px;
+	left:0px;
+	font-weight: bold;
+	color: red;/*#C8C8C8*/;
+	opacity: 0.9;
+	background-color: #404040 ;
+	text-align: center;
+	padding: 5px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	/*position: absolute;*/
+}
+
+#nav a:hover, a:active {
+	color: red;/*#FFFFFF*/;
+	opacity: 1.0;
+	font-size: 18px;
+	/*background-color: #000000;*/
+}
+
+ /*question:how to make background-image taking full page view of browser?*/
+#background{background-image:url(https://scontent-lga1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/10342759_10205693389468452_4800980518395780541_n.jpg?oh=4b5b0939b9239818e1cb534f39f497c8&oe=567B6F29);
+background-repeat: no-repeat;
+position: absolute;
+height: 100%;
+width: 100%;
+top: 0px;
+background-size: cover;}
+
+#about_us{position: absolute;
+top:850px;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+text-align: center;
+left:25%;
+padding-top: 100px;}
+
+#about_us h1{font-size: 60px;}
+#about_us h6{font-size: 30px;}
+
+/*#work_pic{background-image:url("work.jpg");
+position: absolute;
+top:1000px;}*/
+
+
+#small_pic{position: absolute;
+top:1100px;
+right:50%;
+
+}
+
+#blue{width:650px;
+height:400px;
+position: absolute;
+top:1100px;
+left: 50%;
+background-color:lightblue;}
+
+#blue{font-family: "Trebuchet MS", Helvetica, sans-serif;
+text-align: center;}
+
+#we{position: absolute;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+top:1500px;
+margin-left: 40px;
+margin-right: 650px;
+text-align: left; }
+
+#we h1{font-size: 60px;}
+
+
+#service{top:1900px;
+position:relative;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+text-align: center;
+left:1%;
+right:1%;
+padding-top: 100px;
+}
+
+#service h1{font-size: 60px;
+	
+}
+#service h3{margin-left: 2%;
+	margin-right: 2%;
+font-size: 25px;}
+
+/*span{font-size: 15px;}*/
+
+#form{top:3250px;
+position:absolute;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+padding-top:100px;
+/*text-align: center;*/}
+
+#form h1 {font-size: 60px;
+text-align: center;}
+#form h3 {margin-left: 50px;
+	margin-right: 50px;
+font-size: 25px;
+text-align: center;}
+
+#form p {font-size:20px;
+margin-left: 2%;
+margin-right: 2%;}
+
+#wrap_about{position: absolute;
+height: 100%;
+width:100%;
+}
+
+#norway {background-color: #404040;
+position:absolute;
+height: 200px;
+width: 100%;
+top:4200px;
+left:0;
+right:0;}
+
+
+#norway1{color:white;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+margin-left: 5%;
+margin-right: 75%;
+margin-top: 10px;
+border: 3px solid red;
+padding: 5px;
+text-align: center;
+opacity: 0.5;}
+
+
+#norway1:hover{opacity: 1.0;}
+
+#norway2{ color:white;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+margin-left: 30%;
+margin-right: 30%;
+margin-top: -170px;
+border: 3px solid red;
+padding: 6px;
+text-align: center;
+opacity: 0.5;
+/*position: absolute;
+top:4200px;*/}
+
+#norway2:hover{opacity: 1.0;}
+
+/*#tabli{position: absolute;
+height: 100%;
+width:100%;}*/
+#service img{opacity: 0.6;
+/*border: 3px solid red;*/
+/*padding: 100px 100px 100px 100px;*/}
+
+#service img:hover{opacity: 1.0;
+}
+
+#voto {margin-top: -150px;
+margin-left: 40%;
+margin-right: 20%;
+border-radius: 25px;}
+
+#map {
+        width: 350px;
+        height: 195px;
+        margin-left: 72%;
+        margin-top: -173px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
