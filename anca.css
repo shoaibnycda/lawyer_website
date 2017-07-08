@@ -49,7 +49,7 @@ overflow: hidden;
 }
 
  /*question:how to make background-image taking full page view of browser?*/
-#background{background-image:url(https://scontent-lga1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/10342759_10205693389468452_4800980518395780541_n.jpg?oh=4b5b0939b9239818e1cb534f39f497c8&oe=567B6F29);
+#background{background-image:url(liberty.jpg);
 background-repeat: no-repeat;
 position: absolute;
 height: 100%;
